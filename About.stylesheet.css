@@ -10,7 +10,9 @@
     width: 160px;
     height: 160px;
 }
-
+li {
+    list-style: none;
+}
 .top-page {
     width: 24px;
     height: 24px;
