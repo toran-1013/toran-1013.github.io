@@ -195,7 +195,7 @@ nav a:hover{
         text-align: center;
         margin: -45px 30px;
         font-family: serif;
-        font-size: 14px;
+        font-size: 30px;
         font-weight: bold;
         word-break: break-all;
     }
@@ -203,9 +203,10 @@ nav a:hover{
         width: 100%;
         height: auto;
         margin: 50px 0px 0px 85px;
-        padding-left: 30px;
+        padding-left: 300px;
         padding-right: 35px;
         border: #000000;
+        font-size: 30px;
     }
     .ul-hobby-3 {
         display: none;
@@ -264,7 +265,7 @@ nav a:hover{
         text-align: center;
         margin: -45px 30px;
         font-family: serif;
-        font-size: 14px;
+        font-size: 30px;
         font-weight: bold;
         word-break: break-all;
     }
@@ -272,9 +273,10 @@ nav a:hover{
         width: 100%;
         height: auto;
         margin: 50px 0px 0px 85px;
-        padding-left: 30px;
+        padding-left: 300px;
         padding-right: 35px;
         border: #000000;
+        font-size: 30px;
     }
     .ul-hobby-6 {
         display: none;
@@ -316,7 +318,7 @@ nav a:hover{
         text-align: center;
         margin: -45px 30px;
         font-family: serif;
-        font-size: 14px;
+        font-size: 30px;
         font-weight: bold;
         word-break: break-all;
     }
@@ -324,9 +326,10 @@ nav a:hover{
         width: 100%;
         height: auto;
         margin: 50px 0px 0px 85px;
-        padding-left: 30px;
+        padding-left: 300px;
         padding-right: 35px;
         border: #000000;
+        font-size: 30px;
     }
     .ul-hobby-8 {
         display: none;
