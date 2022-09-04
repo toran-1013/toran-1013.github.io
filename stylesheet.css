@@ -1,0 +1,817 @@
+# toran-1013.github.io
+.header-ul {
+    list-style: none;
+}
+.portfolio {
+    width: 150px;
+    height: 84px;
+}
+li {
+    list-style: none;
+}
+.instagram-size {
+    width: 248px;
+    height: 248px;
+}
+.footer-li {
+    list-style: none;
+}
+
+nav a.current{
+    color: #000000;
+    border-bottom:2px solid #000000;
+}
+    
+nav a:hover{
+    color:#3f3f3f;
+    border-bottom:2px solid #3f3f3f;
+}
+
+@media (max-width: 750px){
+    body {
+        float: none;
+        position: static;
+        height: 2000px;
+    }
+    .section_portfolio {
+        margin: -20px;
+    }
+    .portfolio {
+        margin: 0px 30px 0px 30px;
+    }
+    .ul-instagram {
+        list-style: none;
+        width: 24px;
+        height: 65px;
+        margin: 0px 200px 0px 0px;
+    }
+    .li-instagram {
+        margin: 0px 200px 0px 0px;
+    }
+    .instagram {
+        list-style: none;
+        width: 24px;
+        height: 24px;
+        margin: -24px 0px 0px 0px;
+        padding-left: -350px;
+    }
+    .header-nav {
+        margin: 0px 0px 10px 30px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .header-ul {
+        display: flex;
+        justify-content: space-between;
+    }
+    .header-li {
+        display: flex;
+    }
+    .pc {
+        width: 750px;
+        margin: 0px 0px 0px 0px;
+    }
+    .work {
+        padding-left: 20px;
+    }
+    .watashi {
+        width: 373px;
+        height: auto;
+    }
+    .hobby {
+        margin: -10px 0px 0px 0px;
+        padding: 0px 20px 0px 20px;
+        font-family: 'monospace';
+        width: 700px;
+    }
+    .textbox {
+        word-break: keep-all;
+        width: 370px;
+        height: 120px;
+        font-size: 15px;
+        font-family: serif;
+        font-weight: bolder;
+        padding-left: 15px;
+    }
+    .instagram-size {
+        width: 373px;
+        height: 373px;
+        margin: 0px 0px 50px 0px;
+    }
+    .film-hobby {
+        display: flex;
+        margin: 30px 0px 0px 0px;
+        vertical-align: 125px;
+        width: 370px;
+        align-items: flex-end;
+        flex-wrap: wrap;
+    }
+    .writing-mode-1 {
+        writing-mode: vertical-rl;
+        padding: 0px 0px 20px 0px;
+        margin: -40px 0px 25px 150px;
+        font-size: 25px;
+        font-family: serif;
+        font-weight: bold;
+    }
+    .writing-mode-2 {
+        font-family: serif;
+        font-size: 17px;
+        margin: -90px 20px 0px 20px;
+    }
+    .writing-mode-3 {
+        writing-mode: vertical-rl;
+        padding: 10px 0px 20px 0px;
+        margin: -5px 0px 25px 150px;
+        font-size: 25px;
+        font-family: serif;
+        font-weight: bold;
+    }
+    .writing-mode-4 {
+        font-family: serif;
+        font-size: 17px;
+        margin: -95px 0px 0px 0px;
+    }
+    .writing-mode-5 {
+        writing-mode: vertical-rl;
+        padding: 90px 0px 20px 0px;
+        margin: -0px 0px 25px 150px;
+        font-size: 25px;
+        font-family: serif;
+        font-weight: bold;
+    }
+    .writing-mode-6 {
+        font-family: serif;
+        font-size: 17px;
+        margin: -95px 0px 0px 0px;
+    }
+    .ul-hobby-1 {
+        display: none;
+    }
+    .li-hobby-1 {
+        display: none;
+    }
+    .a-1 {
+        display: none;
+    }
+    .p-hobby-1 {
+        display: none;
+    }
+    .button-1 {
+        display: none;
+    }
+    .ul-hobby-2 {
+        list-style: none;
+        width: 128px;
+        height: 128px;
+        margin-top: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .li-hobby-2 {
+        width: 248px;
+        height: 340px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .a-2 {
+        width: 200px;
+        height: 0px;
+        padding-right: 0px;
+    }
+    .p-hobby-2 {
+        width: 300px;
+        text-align: center;
+        margin: -45px 30px;
+        font-family: serif;
+        font-size: 14px;
+        font-weight: bold;
+        word-break: break-all;
+    }
+    .button-2 {
+        width: 175px;
+        margin: 50px 0px 0px 85px;
+        padding-left: 30px;
+        padding-right: 35px;
+        border: #000000;
+    }
+    .ul-hobby-3 {
+        display: none;
+    }
+    .li-hobby-3 {
+        display: none;
+    }
+    .a-3 {
+        display: none;
+    }
+    .p-hobby-3 {
+        display: none;
+    }
+    .button-3 {
+        display: none;
+    }
+    .ul-hobby-4 {
+        display: none;
+    }
+    .li-hobby-4 {
+        display: none;
+    }
+    .a-4 {
+        display: none;
+    }
+    .p-hobby-4 {
+        display: none;
+    }
+    .button-4 {
+        display: none;
+    }
+    .ul-hobby-5 {
+        list-style: none;
+        width: 248px;
+        height: 340px;
+        margin-top: 350px;
+        margin-left: 0px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }    
+    .li-hobby-5 {
+        width: 248px;
+        height: 340px;
+        margin-top: 50px;
+        margin-left: 0px;
+        padding-top: 50px;
+    }
+    .a-5 {
+        width: 248px;
+        height: 0px;
+        padding-right: 0px;
+    }
+    .p-hobby-5 {
+        width: 300px;
+        text-align: center;
+        margin: -45px 30px;
+        font-family: serif;
+        font-size: 14px;
+        font-weight: bold;
+        word-break: break-all;
+    }
+    .button-5 {
+        width: 175px;
+        margin: 50px 0px 0px 85px;
+        padding-left: 30px;
+        padding-right: 35px;
+        border: #000000;
+    }
+    .ul-hobby-6 {
+        display: none;
+    }
+    .li-hobby-6 {
+        display: none;
+    }
+    .a-6 {
+        display: none;
+    }
+    .p-hobby-6 {
+        display: none;
+    }
+    .button-6 {
+        display: none;
+    }
+    .ul-hobby-7 {
+        list-style: none;
+        width: 248px;
+        height: 340px;
+        margin-top: 350px;
+        margin-left: 0px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .li-hobby-7 {
+        width: 248px;
+        height: 340px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .a-7 {
+        width: 248px;
+        height: 0px;
+    }
+    .p-hobby-7 {
+        width: 300px;
+        text-align: center;
+        margin: -45px 30px;
+        font-family: serif;
+        font-size: 14px;
+        font-weight: bold;
+        word-break: break-all;
+    }
+    .button-7 {
+        width: 175px;
+        margin: 50px 0px 0px 85px;
+        padding-left: 30px;
+        padding-right: 35px;
+        border: #000000;
+    }
+    .ul-hobby-8 {
+        display: none;
+    }
+    .li-hobby-8 {
+        display: none;
+    }
+    .a-8 {
+        display: none;
+    }
+    .p-hobby-8 {
+        display: none;
+    }
+    .button-8 {
+        display: none;
+    }
+    .ul-hobby-9 {
+        display: none;
+    }
+    .li-hobby-9 {
+        display: none;
+    }
+    .a-9 {
+        display: none;
+    }
+    .p-hobby-9 {
+        display: none;
+    }
+    .button-9 {
+        display: none;
+    }
+    h2 {
+        word-break: keep-all;
+    }
+    .dd-instagram {
+        margin: -23px 0px 0px 102px;
+    }
+    .p-top-page{
+        width: 100%;
+        text-align: center;
+    }
+    .footer-nav {
+        margin: 550px 90px 10px 0px;
+    }
+    .footer-ul {
+        display: flex;
+        justify-content: space-between;
+    }
+    .footer-li {
+        display: flex;
+        justify-content: space-between;
+    }
+    .top-page {
+        margin: 0% 20% 0% 10%;
+        width: 24px;
+        height: 24px;
+    }
+    .last {
+    margin: -23px 0px 0px 130px;
+    }
+}
+@media (min-width: 751px){
+    body {
+        width: 800px;
+        margin: 0 auto;
+        min-height: 100vh;
+        display: grid;
+        grid-template: 
+        "... ...... ...... ...... ...... ...... ..."
+        "... header header header header header ..."180px
+        "... ...... ...... ...... ...... ...... ..."
+        "... left   ...... center ...... right  ..."1fr
+        "... ...... ...... ...... ...... ...... ..."
+        "... footer footer footer footer footer ..."300px
+        "... ...... ...... ...... ...... ...... ..."
+        / auto 150px auto 1fr auto 200px auto;
+        gap: 10px;
+        }
+    header {
+            grid-area: header;
+            width: 960px;
+            height: 158px;
+        }    
+    main {
+            grid-area: center;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            padding-bottom: 0px;
+            margin-left: -170px;
+            margin-right: -122px;
+            width: 960px;
+            height: 2350px;
+    }
+    .pc {
+            width: 960px;
+        }
+    nav {
+            grid-area: right;
+        }
+    aside {
+            grid-area: left;
+        }
+    footer {
+            grid-area: footer;
+            width: 960px;
+            height: 158px;
+        }
+    .section_portfolio .container{
+        width: 50px;
+        height: auto;
+        }
+    .portfolio {
+        width: 150px;
+        height: auto;
+        }
+    .ul-instagram {
+            list-style: none;
+            margin: 0px 0px 0px 751px;
+        }
+    .instagram {
+            list-style: none;
+            width: 24px;
+            height: 24px;
+        }
+    .header-nav {
+            margin-top: -33px;
+            display: flex;
+            justify-content: flex-end;
+            margin-bottom: 10px;
+            margin-right: 30%;
+        }
+    .header-ul {
+            margin-right: 0;
+            width: 50%;
+            list-style-type: none;
+            display: flex;
+            justify-content: space-around;
+        }
+    .header-li {
+            list-style: none;
+            font-size: 24px;
+            margin: -15px 0px 0px 55px;
+        }
+    .watashi {
+            width: 960px;
+            height: auto;
+        }
+    .work {
+            max-width: 1000px;
+            margin: -8px 0px;
+            padding: 0px 20px 0px 20px;
+            font-family: 'monospace';
+        }
+    .textbox {
+            margin: 0% 0% 0% 0% ;
+            padding: 10px 0px;
+            max-width: 1000px;
+            width: 100%;
+            font-size: 20px;
+            word-break: break-all;
+        }
+    .hobby {
+            max-width: 1000px;
+            margin: 0px ;
+            padding: 0px 20px 0px 20px;
+            font-family: 'monospace';
+        }
+    .film-hobby {
+            display: flex;
+            margin: 0px 300px 0px 0px;
+            vertical-align: 125px;
+            width: 960px;
+            height: 1080px;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+    .instagram-size {
+            margin: 0px 30px 50px 0px;
+        }
+    .ul-hobby-1 {
+            list-style: none;
+            width: 248px;
+            height: 340px;
+            padding-left: 0px;
+        }
+    .ul-hobby-2 {
+            list-style: none;
+            width: 248px;
+            height: 340px;
+            padding-left: 0px;
+        }
+    .ul-hobby-3 {
+            list-style: none;
+            width: 248px;
+            height: 340px;
+            padding-left: 0px;
+        }
+    .ul-hobby-4 {
+            list-style: none;
+            width: 248px;
+            height: 340px;
+            margin-top: 200px;
+            padding-left: 0px;
+        }
+    .ul-hobby-5 {
+            list-style: none;
+            width: 248px;
+            height: 340px;
+            margin-top: 200px;
+            padding-left: 0px;
+        }
+    .ul-hobby-6 {
+            list-style: none;
+            width: 248px;
+            height: 340px;
+            margin-top: 200px;
+            padding-left: 0px;
+        }
+    .ul-hobby-7 {
+            list-style: none;
+            width: 248px;
+            height: 340px;
+            margin-top: 200px;
+            padding-left: 0px;
+        }
+    .ul-hobby-8 {
+            list-style: none;
+            width: 248px;
+            height: 340px;
+            margin-top: 200px;
+            padding-left: 0px;
+        }
+    .ul-hobby-9 {
+            list-style: none;
+            width: 248px;
+            height: 340px;
+            margin-top: 200px;
+            padding-left: 0px;
+        }
+    .li-hobby-1 {
+            width: 248px;
+            height: 340px;
+        }
+    .li-hobby-2 {
+            width: 248px;
+            height: 340px;
+        }
+    .li-hobby-3 {
+            width: 248px;
+            height: 340px;
+        }
+    .li-hobby-4 {
+            width: 248px;
+            height: 340px;
+        }
+    .li-hobby-5 {
+            width: 248px;
+            height: 340px;
+        }
+    .li-hobby-6 {
+            width: 248px;
+            height: 340px;
+        }
+    .li-hobby-7 {
+            width: 248px;
+            height: 340px;
+        }
+    .li-hobby-8 {
+            width: 248px;
+            height: 340px;
+        }
+    .li-hobby-9 {
+            width: 248px;
+            height: 340px;
+        }
+    .writing-mode-1 {
+            writing-mode: vertical-rl;
+            padding: 0px 0px 5px 185px;
+            margin: -10px 0px 0px 24px;
+            font-size: 28px;
+            font-family: serif;
+        }
+    .writing-mode-2 {
+            font-family: serif;
+            font-size: 30px;
+            margin: -95px 0px 0px 0px;
+        }
+    .writing-mode-3 {
+            writing-mode: vertical-rl;
+            padding: 0px 0px 5px 185px;
+            margin: -10px 0px 0px 24px;
+            font-size: 28px;
+            font-family: serif;
+        }
+    .writing-mode-4 {
+            font-family: serif;
+            font-size: 30px;
+            margin: -95px 0px 0px 0px;
+        }
+    .writing-mode-5 {
+            writing-mode: vertical-rl;
+            padding: 0px 0px 5px 185px;
+            margin: -10px 0px 0px 24px;
+            font-size: 28px;
+            font-family: serif;
+        }
+    .writing-mode-6 {
+            font-family: serif;
+            font-size: 30px;
+            margin: -95px 0px 0px 0px;
+        }
+    .a-1 {
+            width: 248px;
+            height: 0px;
+        }
+    .a-2 {
+            width: 248px;
+            height: 0px;
+            padding-right: 0px;
+        }
+    .a-3 {
+            width: 248px;
+            height: 0px;
+        }
+    .a-4 {
+            width: 248px;
+            height: 0px;
+        }
+    .a-5 {
+            width: 248px;
+            height: 0px;
+            padding-right: 0px;
+        }
+    .a-6 {
+            width: 248px;
+            height: 0px;
+        }
+    .a-7 {
+            width: 248px;
+            height: 0px;
+        }
+    .a-8 {
+            width: 248px;
+            height: 0px;
+            padding-right: 0px;
+        }
+    .a-9 {
+            width: 248px;
+            height: 0px;
+        }
+    .p-hobby-1 {
+            width: 248px;
+            margin: -45px 0px;
+            font-family: serif;
+            font-size: 18px;
+            font-weight: bold;
+            word-break: break-all;
+        }
+    .p-hobby-2 {
+            width: 248px;
+            margin: -45px 0px;
+            font-family: serif;
+            font-size: 18px;
+            font-weight: bold;
+            word-break: break-all;
+        }
+    .p-hobby-3 {
+            width: 248px;
+            margin: -45px 0px;
+            font-family: serif;
+            font-size: 18px;
+            font-weight: bold;
+            word-break: break-all;
+        }
+    .p-hobby-4 {
+            width: 248px;
+            margin: -45px 0px;
+            font-family: serif;
+            font-size: 18px;
+            font-weight: bold;
+            word-break: break-all;
+        }
+    .p-hobby-5 {
+            width: 248px;
+            margin: -45px 0px;
+            font-family: serif;
+            font-size: 18px;
+            font-weight: bold;
+            word-break: break-all;
+        }
+    .p-hobby-6 {
+            width: 248px;
+            margin: -45px 0px;
+            font-family: serif;
+            font-size: 18px;
+            font-weight: bold;
+            word-break: break-all;
+        }
+    .p-hobby-7 {
+            width: 248px;
+            margin: -45px 0px;
+            font-family: serif;
+            font-size: 18px;
+            font-weight: bold;
+            word-break: break-all;
+        }
+    .p-hobby-8 {
+            width: 248px;
+            margin: -45px 0px;
+            font-family: serif;
+            font-size: 18px;
+            font-weight: bold;
+            word-break: break-all;
+        }
+    .p-hobby-9 {
+            width: 248px;
+            margin: -45px 0px;
+            font-family: serif;
+            font-size: 18px;
+            font-weight: bold;
+            word-break: break-all;
+        }
+    .button-1 {
+            width: 248px;
+            margin: 75px 0px 0px 0px;
+            border: #000000;
+        }
+    .button-2 {
+            width: 248px;
+            margin: 74px 0px 0px 0px;
+            border: #000000;
+        }
+    .button-3 {
+            width: 248px;
+            margin: 75px 0px 0px 0px;
+            border: #000000;
+
+        }
+    .button-4 {
+            width: 248px;
+            margin: 110px 0px 0px 0px;
+            border: #000000;
+        }
+    .button-5 {
+            width: 248px;
+            margin: 50px 0px 100px 0px;
+            border: #000000;
+        }
+    .button-6 {
+            width: 248px;
+            margin: 110px 0px 0px 0px;
+            border: #000000;
+        }
+    .button-7 {
+            width: 248px;
+            margin: 75px 0px 0px 0px;
+            border: #000000;
+        }
+    .button-8 {
+            width: 248px;
+            margin: 74px 0px 0px 0px;
+            border: #000000;
+        }
+    .button-9 {
+            width: 248px;
+            margin: 75px 0px 0px 0px;
+            border: #000000;
+
+        }
+    h2 {
+            font-size: 24px;
+            width: 608px;
+            height: 28px;
+            margin: -121px 120px 95px 200px;
+        }
+    .p-top-page {
+            text-align: center;
+        }
+    .top-page {
+            width: 24px;
+            height: 24px;
+            
+        }
+    .footer-nav {
+            text-align: left;
+            display: flex;
+            justify-content: flex-end;
+            margin-bottom: 10px;
+            justify-content: flex-start;
+        }
+    .footer-ul {
+            margin-right: 0;
+            width: 50%;
+            list-style-type: none;
+            display: flex;
+            justify-content: space-around;
+        }
+    .footer-li {
+            list-style: none;
+        }
+    .last {
+                margin: -25px 0px 0px 751px;
+        }
+}
