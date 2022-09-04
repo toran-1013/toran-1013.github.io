@@ -100,7 +100,7 @@ nav a:hover{
     .instagram-size {
         width: 750px;
         height: auto;
-        margin: 0px 0px 50px 0px;
+        margin: 0px 50px 50px 50px;
     }
     .film-hobby {
         display: flex;
@@ -113,41 +113,41 @@ nav a:hover{
     .writing-mode-1 {
         writing-mode: vertical-rl;
         padding: -90px 0px 40px 0px;
-        margin: 30px 0px 0px 180px;
+        margin: 30px 0px 0px 730px;
         font-size: 45px;
         font-family: serif;
         font-weight: bold;
     }
     .writing-mode-2 {
         font-family: serif;
-        font-size: 45px;
-        margin: -125px 20px 0px 20px;
+        font-size: 65px;
+        margin: -125px 20px 0px 550px;
     }
     .writing-mode-3 {
         writing-mode: vertical-rl;
-        padding: 10px 0px 20px 0px;
-        margin: -5px 0px 25px 150px;
-        font-size: 25px;
+        padding: -90px 0px 40px 0px;
+        margin: 30px 0px 0px 730px;
+        font-size: 45px;
         font-family: serif;
         font-weight: bold;
     }
     .writing-mode-4 {
         font-family: serif;
-        font-size: 45px;
-        margin: -95px 0px 0px 0px;
+        font-size: 65px;
+        margin: -125px 20px 0px 550px;
     }
     .writing-mode-5 {
         writing-mode: vertical-rl;
-        padding: 90px 0px 20px 0px;
-        margin: -0px 0px 25px 150px;
-        font-size: 25px;
+        padding: -90px 0px 40px 0px;
+        margin: 30px 0px 0px 730px;
+        font-size: 45px;
         font-family: serif;
         font-weight: bold;
     }
     .writing-mode-6 {
         font-family: serif;
-        font-size: 45px;
-        margin: -95px 0px 0px 0px;
+        font-size: 65px;
+        margin: -125px 20px 0px 550px;
     }
     .ul-hobby-1 {
         display: none;
