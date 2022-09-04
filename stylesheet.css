@@ -41,8 +41,8 @@ nav a:hover{
     }
     .ul-instagram {
         list-style: none;
-        width: 100%;
-        height: auto;
+        width: 24px;
+        height: 24px;
         margin: 0px 200px 0px 0px;
     }
     .li-instagram {
@@ -50,7 +50,8 @@ nav a:hover{
     }
     .instagram {
         list-style: none;
-        width: 100%;
+        width: 24px;
+        height: 24px;
         margin: -24px 0px 0px 0px;
         padding-left: -350px;
     }
