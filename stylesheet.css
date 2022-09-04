@@ -79,8 +79,9 @@ nav a:hover{
         padding-left: 20px;
     }
     .watashi {
-        width: 100%;
+        width: 750px;
         height: auto;
+        margin: 0px 50px 50px 50px;
     }
     .hobby {
         margin: -10px 0px 0px 0px;
