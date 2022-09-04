@@ -15,7 +15,10 @@ li {
 .footer-li {
     list-style: none;
 }
-
+.top-page {
+    width: 24px;
+    height: 24px;
+}
 nav a.current{
     color: #000000;
     border-bottom:2px solid #000000;
@@ -356,7 +359,6 @@ nav a:hover{
     }
     .p-top-page{
         width: 100%;
-        height: auto;
         text-align: center;
     }
     .footer-nav {
@@ -372,8 +374,6 @@ nav a:hover{
     }
     .top-page {
         margin: 0% 20% 0% 10%;
-        width: 100%;
-        height: auto;
     }
     .last {
     margin: -23px 0px 0px 130px;
