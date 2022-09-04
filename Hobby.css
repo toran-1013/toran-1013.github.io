@@ -29,6 +29,7 @@ nav a:hover{
 
 @media (max-width: 750px){
     body {
+        width: 390px;
         float: none;
         position: static;
         height: 2000px;
