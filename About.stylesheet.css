@@ -1,0 +1,277 @@
+# toran-1013.github.io
+.header-ul {
+    list-style: none;
+}
+.portfolio {
+    width: 150px;
+    height: 84px;
+}
+.photo_me {
+    width: 160px;
+    height: 160px;
+}
+
+.top-page {
+    width: 24px;
+    height: 24px;
+}
+.footer-li {
+    list-style: none;
+}
+nav a.current{
+    color: #000000;
+    border-bottom:2px solid #000000;
+}
+    
+nav a:hover{
+    color:#3f3f3f;
+    border-bottom:2px solid #3f3f3f;
+}
+
+@media (max-width: 750px){
+    body {
+        float: none;
+        position: static;
+    }
+    .section_portfolio {
+        margin-bottom: -20px;
+    }
+    .ul-instagram {
+        list-style: none;
+        margin: 0px 0px 0px 290px;
+    }
+    .instagram {
+        list-style: none;
+        width: 24px;
+        height: 24px;
+    }
+    .header-nav {
+        margin: 0px 30px 10px 10px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .header-ul {
+        display: flex;
+        justify-content: space-between;
+    }
+    .header-li {
+        display: flex;
+    }
+    .textbox {
+        word-break: keep-all;
+        width: 375px;
+        height: 188px;
+        font-size: 15px;
+    }
+    .photo_me {
+        margin: 0px 100px;
+        padding-bottom: -10px;
+    }
+    .gaiyou_dd {
+        margin: -23px 0px 0px 102px;
+        word-break: keep-all;
+    }
+    h2 {
+        word-break: keep-all;
+    }
+    .dd-instagram {
+        margin: -23px 0px 0px 102px;
+    }
+    .p-top-page{
+        width: 100%;
+        text-align: center;
+    }
+    .footer-nav {
+        margin: 0px 90px 10px 0px;
+    }
+    .footer-ul {
+        display: flex;
+        justify-content: space-between;
+    }
+    .footer-li {
+        display: flex;
+        justify-content: space-between;
+    }
+    .top-page {
+        margin: 0% 10% 0% 10%;
+    }
+    .last {
+    margin: -23px 0px 0px 130px;
+    }
+}
+@media (min-width: 751px){
+    body {
+        width: 800px;
+        margin: 0 auto;
+        min-height: 100vh;
+        display: grid;
+        grid-template: 
+        "... ...... ...... ...... ...... ...... ..."
+        "... header header header header header ..."180px
+        "... ...... ...... ...... ...... ...... ..."
+        "... left   ...... center ...... right  ..."1fr
+        "... ...... ...... ...... ...... ...... ..."
+        "... footer footer footer footer footer ..."300px
+        "... ...... ...... ...... ...... ...... ..."
+        / auto 150px auto 1fr auto 200px auto;
+        gap: 10px;
+        }
+        header {
+            grid-area: header;
+            width: 960px;
+            height: 158px;
+        }
+        
+        main {
+            grid-area: center;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            padding-bottom: 0px;
+            margin-left: -170px;
+            }
+        
+        nav {
+            grid-area: right;
+        }
+        
+        aside {
+            grid-area: left;
+        }
+        
+        footer {
+            grid-area: footer;
+            width: 960px;
+            height: 158px;
+        }
+        .section_portfolio .container{
+        width: 50px;
+        height: auto;
+        }
+        .portfolio {
+        width: 150px;
+        height: auto;
+        }
+        .ul-instagram {
+            list-style: none;
+            margin: 0px 0px 0px 751px;
+        }
+        .instagram {
+            list-style: none;
+            width: 24px;
+            height: 24px;
+        }
+        .header-nav {
+            margin-top: -33px;
+            display: flex;
+            justify-content: flex-end;
+            margin-bottom: 10px;
+            margin-right: 30%;
+        }
+        .header-ul {
+            margin-right: 0;
+            width: 50%;
+            list-style-type: none;
+            display: flex;
+            justify-content: space-around;
+        }
+        .header-li {
+            list-style: none;
+        }
+        
+        .About {
+            max-width: 1000px;
+            margin: 0px ;
+            padding: 0px 20px 0px 20px;
+            font-family: 'monospace';
+        }
+        .textbox {
+            margin: 0% 0% 0% 0% ;
+            padding: 20px 0px;
+            max-width: 1000px;
+            width: 100%;
+            word-break: break-all;
+        }
+        
+        .photo_me {
+            display: inline-block;
+            width: 160px;
+            height: 160px;
+        }
+        
+        .Born_me {
+            display: inline-block;
+            margin: -110px 0px  -100px 200px;
+            vertical-align: 125px;
+        }
+        .gaiyou {
+            display: inline-block;
+            width: 760px;
+            height: 123px;
+            margin-top: -200px;
+        }
+        .gaiyou_dt {
+            display: inline-block;
+            margin-top: -26px;
+            width: 100px;
+            height: 24px;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        
+        .gaiyou_dd {
+            margin-top: -26px;
+            margin-left: 121px;
+            width: 608px;
+            height: 24px;
+        }
+        
+        h2 {
+            font-size: 24px;
+            width: 608px;
+            height: 28px;
+            margin: -121px 120px 95px 200px;
+        }
+        .dl-instagram {
+            width: 125px;
+            height: 24px;
+            margin: -85px 120px 95px 200px;
+        }
+        .dd-instagram {
+            width: 100px;
+            height: 24px;
+            margin-top: -24px;
+            margin-bottom: 100px;
+            margin-left: 120px;
+        }
+        .p-top-page {
+            text-align: center;
+        }
+        .top-page {
+            width: 24px;
+            height: 24px;
+            
+        }
+        .footer-nav {
+            text-align: left;
+            display: flex;
+            justify-content: flex-end;
+            margin-bottom: 10px;
+            justify-content: flex-start;
+        }
+            
+        .footer-ul {
+            margin-right: 0;
+            width: 50%;
+            list-style-type: none;
+            display: flex;
+            justify-content: space-around;
+        }
+            
+        .footer-li {
+            list-style: none;
+        }
+            
+        .last {
+                margin: -25px 0px 0px 751px;
+        }
+}
