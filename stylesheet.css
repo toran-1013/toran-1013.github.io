@@ -369,6 +369,7 @@ nav a:hover{
         text-align: center;
     }
     .footer-nav {
+        font-size: 45px;
         margin: 550px 90px 10px 0px;
     }
     .footer-ul {
@@ -380,7 +381,7 @@ nav a:hover{
         justify-content: space-between;
     }
     .top-page {
-        margin: 0% 20% 0% 10%;
+        margin: 0% 30% 0% 30%;
     }
     .last {
     margin: -23px 0px 0px 130px;
