@@ -111,18 +111,17 @@ nav a:hover{
         flex-wrap: wrap;
     }
     .writing-mode-1 {
-        width: 100%;
         writing-mode: vertical-rl;
-        padding: -20px 0px 40px 0px;
-        margin: -100px 0px 0px 200px;
-        font-size: 65px;
+        padding: -90px 0px 40px 0px;
+        margin: 30px 0px 0px 200px;
+        font-size: 45px;
         font-family: serif;
         font-weight: bold;
     }
     .writing-mode-2 {
         font-family: serif;
         font-size: 45px;
-        margin: -90px 20px 0px 20px;
+        margin: -125px 20px 0px 20px;
     }
     .writing-mode-3 {
         writing-mode: vertical-rl;
