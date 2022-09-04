@@ -5,6 +5,9 @@
     width: 150px;
     height: 84px;
 }
+a {
+    color:inherit;
+ }
 li {
     list-style: none;
 }
@@ -91,8 +94,7 @@ nav a:hover{
         margin: -10px 0px 0px 0px;
         padding: 0px 20px 0px 20px;
         font-family: 'monospace';
-        width: 100%;
-        font: 65px;
+        font-size: 65px;
     }
     .textbox {
         word-break: keep-all;
@@ -193,7 +195,7 @@ nav a:hover{
         width: 100%;
         height: auto;
         text-align: center;
-        margin: -45px 30px;
+        margin: -45px 300px;
         font-family: serif;
         font-size: 30px;
         font-weight: bold;
@@ -202,7 +204,7 @@ nav a:hover{
     .button-2 {
         width: 100%;
         height: auto;
-        margin: 50px 0px 0px 85px;
+        margin: 50px 300px 0px 300px;
         padding-left: 300px;
         padding-right: 35px;
         border: #000000;
@@ -263,7 +265,7 @@ nav a:hover{
         width: 100%;
         height: auto;
         text-align: center;
-        margin: -45px 30px;
+        margin: -45px 300px;
         font-family: serif;
         font-size: 30px;
         font-weight: bold;
@@ -272,7 +274,7 @@ nav a:hover{
     .button-5 {
         width: 100%;
         height: auto;
-        margin: 50px 0px 0px 85px;
+        margin: 50px 300px 0px 300px;
         padding-left: 300px;
         padding-right: 35px;
         border: #000000;
@@ -316,7 +318,7 @@ nav a:hover{
         width: 100%;
         height: auto;
         text-align: center;
-        margin: -45px 30px;
+        margin: -45px 300px;
         font-family: serif;
         font-size: 30px;
         font-weight: bold;
@@ -325,7 +327,7 @@ nav a:hover{
     .button-7 {
         width: 100%;
         height: auto;
-        margin: 50px 0px 0px 85px;
+        margin: 50px 300px 0px 300px;
         padding-left: 300px;
         padding-right: 35px;
         border: #000000;
@@ -373,6 +375,8 @@ nav a:hover{
     }
     .footer-nav {
         font-size: 45px;
+        padding-right: 0px;
+        padding-left: 0px;
         margin: 550px 90px 10px 0px;
     }
     .footer-ul {
@@ -384,7 +388,7 @@ nav a:hover{
         justify-content: space-between;
     }
     .top-page {
-        margin: 0% 30% 0% 30%;
+        margin: 0px 300px 0px 300px;
     }
     .last {
     margin: -23px 0px 0px 130px;
