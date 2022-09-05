@@ -377,6 +377,10 @@ nav a:hover{
         padding-left: 30px;
         justify-content: space-between;
     }
+    .img {
+        width: 24px;
+        height: 24px;
+    }
     .top-page {
         margin: 0px 300px 0px 300px;
     }
