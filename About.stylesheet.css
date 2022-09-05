@@ -53,8 +53,8 @@ nav a:hover{
     }
    .header-nav {
         margin: 0px 0px 10px 10px;
-        padding-right: 0px;
-        padding-left: 0px;
+        padding-right: 10px;
+        padding-left: 10px;
        font-size: 45px;
     }
     .header-ul {
@@ -113,7 +113,7 @@ nav a:hover{
         font-size: 40px;
     }
     .dd-instagram {
-        margin: -60px 0px 0px 405px;
+        margin: -60px 0px 0px 350px;
         font-size: 40px;
     }
     .p-top-page{
