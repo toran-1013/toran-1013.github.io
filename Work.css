@@ -72,7 +72,6 @@ nav a:hover{
         display: flex;
         padding-right: 30px;
         padding-left: 30px;
-        justify-content: space-between;
     }
     .pc {
         width: 100%;
