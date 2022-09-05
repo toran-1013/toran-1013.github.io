@@ -86,7 +86,7 @@ nav a:hover{
         margin: 0px 50px 50px 50px;
     }
     .br-sp {
-        display: none;
+        display: block;
     }
     .gaiyou_dt {
         margin: -10px 0px 0px 80px;
@@ -239,7 +239,9 @@ nav a:hover{
             width: 160px;
             height: 160px;
         }
-        
+        .br-sp {
+            display: none;
+        }
         .Born_me {
             display: inline-block;
             margin: -110px 0px  -100px 200px;
