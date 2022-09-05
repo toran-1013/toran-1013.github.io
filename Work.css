@@ -60,16 +60,20 @@ nav a:hover{
         padding-left: -350px;
     }
     .header-nav {
-        margin: 0px 40px 10px -20px;
-        padding-right: 40px;
-        padding-left: -30px;
+        margin: 0px 90px 10px 0px;
+        padding-right: 30px;
+        padding-left: 30px;
+       font-size: 45px;
     }
     .header-ul {
         display: flex;
-        justify-content: space-around;
+        justify-content: space-between;
     }
     .header-li {
         display: flex;
+        padding-right: 30px;
+        padding-left: 30px;
+        justify-content: space-between;
     }
     .pc {
         width: 100%;
