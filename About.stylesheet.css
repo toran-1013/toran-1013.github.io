@@ -65,7 +65,7 @@ nav a:hover{
     }
     .textbox {
         word-break: keep-all;
-        width: 100%;
+        width: 650px;
         height: auto;
         font-size: 24px;
         font-family: serif;
@@ -77,20 +77,30 @@ nav a:hover{
         height: auto;
         margin: 0px 50px 50px 50px;
     }
+    .gaiyou_dt {
+        margin: -23px 0px 0px 240px;
+        word-break: keep-all;
+        font-size: 55px;
+    }
     .gaiyou_dd {
         margin: -23px 0px 0px 280px;
         word-break: keep-all;
+        font-size: 45px;
     }
     h2 {
+        margin: -23px 0px 0px 280px;
         word-break: keep-all;
     }
+    .dl-instagram {
+        margin: -23px 0px 0px 280px;
+    }
     .dd-instagram {
-        margin: -23px 0px 0px 102px;
+        margin: -23px 0px 0px 280px;
     }
     .p-top-page{
         width: 100%;
         text-align: center;
-        margin: 50px 255px 0px 120px;
+        margin: 50px 255px 0px 280px;
     }
     .footer-nav {
         font-size: 45px;
@@ -112,7 +122,8 @@ nav a:hover{
         margin: 0% 10% 0% 10%;
     }
     .last {
-    margin: -23px 0px 0px 130px;
+        font-size:35px;
+        margin: -23px 0px 0px 130px;
     }
 }
 @media (min-width: 751px){
