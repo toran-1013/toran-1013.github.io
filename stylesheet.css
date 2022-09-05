@@ -107,7 +107,7 @@ nav a:hover{
         padding-left: 25px;
     }
     .br-sp {
-        display: none;
+        display: block;
     }
     .instagram-size {
         width: 750px;
@@ -497,6 +497,9 @@ nav a:hover{
             width: 100%;
             font-size: 20px;
             word-break: break-all;
+        }
+    .br-sp {
+            display: none;
         }
     .hobby {
             max-width: 1000px;
