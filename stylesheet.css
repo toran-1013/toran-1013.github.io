@@ -196,15 +196,15 @@ nav a:hover{
         width: 100%;
         height: auto;
         text-align: center;
-        margin: 50px 300px 0px 260px;
+        margin: 50px 300px 0px 220px;
         font-family: serif;
         font-size: 30px;
         font-weight: bold;
     }
     .button-2 {
-        width: 100%;
+        width: 350px;
         height: auto;
-        margin: 50px 300px 0px 260px;
+        margin: 50px 300px 0px 255px;
         padding-left: 30px;
         padding-right: 30px;
         border: #000000;
@@ -262,10 +262,10 @@ nav a:hover{
         padding-right: 0px;
     }
     .p-hobby-5 {
-        width: 100%;
+        width: 350;
         height: auto;
         text-align: center;
-        margin: 50px 300px 0px 260px;
+        margin: 50px 300px 0px 255px;
         font-family: serif;
         font-size: 30px;
         font-weight: bold;
@@ -314,10 +314,10 @@ nav a:hover{
         height: auto;
     }
     .p-hobby-7 {
-        width: 100%;
+        width: 350px;
         height: auto;
         text-align: center;
-        margin: 50px 300px 0px 260px;
+        margin: 50px 300px 0px 255px;
         font-family: serif;
         font-size: 30px;
         font-weight: bold;
