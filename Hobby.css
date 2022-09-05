@@ -359,6 +359,9 @@ nav a:hover{
         margin: 50px 255px 0px 120px;
     }
     .footer-nav {
+        font-size: 45px;
+        padding-right: 30px;
+        padding-left: 30px;
         margin: 550px 90px 10px 0px;
     }
     .footer-ul {
@@ -367,6 +370,8 @@ nav a:hover{
     }
     .footer-li {
         display: flex;
+        padding-right: 30px;
+        padding-left: 30px;
         justify-content: space-between;
     }
     .top-page {
