@@ -102,9 +102,10 @@ nav a:hover{
         width: 100%;
         margin: -23px 0px 0px 280px;
         word-break: keep-all;
+        font-size: 40px;
     }
     .dl-instagram {
-        margin: -23px 0px 0px 280px;
+        margin: -17px 0px 0px 280px;
         font-size: 40px;
     }
     .dd-instagram {
