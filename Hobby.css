@@ -383,6 +383,8 @@ nav a:hover{
     }
     .top-page {
         margin: 0px 300px 0px 300px;
+        width: 24px;
+        height: 24px;
     }
     .last {
     margin: -23px 0px 0px 130px;
