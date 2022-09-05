@@ -66,9 +66,12 @@ nav a:hover{
     }
     .textbox {
         word-break: keep-all;
-        width: 375px;
-        height: 188px;
-        font-size: 15px;
+        width: 100%;
+        height: auto;
+        font-size: 24px;
+        font-family: serif;
+        font-weight: bolder;
+        padding-left: 25px;
     }
     .photo_me {
         margin: 0px 100px;
