@@ -262,13 +262,13 @@ nav a:hover{
         padding-right: 0px;
     }
     .p-hobby-5 {
-        width: 300px;
+        width: 100%;
+        height: auto;
         text-align: center;
-        margin: -45px 30px;
+        margin: 50px 300px 0px 220px;
         font-family: serif;
-        font-size: 14px;
+        font-size: 30px;
         font-weight: bold;
-        word-break: break-all;
     }
     .button-5 {
         width: 100%;
