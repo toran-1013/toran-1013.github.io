@@ -35,7 +35,7 @@ nav a:hover{
 
 @media (max-width: 750px){
     body {
-        width: 390px;
+        width: 100%;
         float: none;
         position: static;
     }
@@ -63,9 +63,13 @@ nav a:hover{
     .header-li {
         display: flex;
     }
+    .About {
+        margin: 0px 40px 0px 0px;
+        font-family: 'monospace';
+        }
     .textbox {
         word-break: keep-all;
-        width: 650px;
+        width: 750px;
         height: auto;
         font-size: 24px;
         font-family: serif;
@@ -81,7 +85,7 @@ nav a:hover{
         display: none;
     }
     .gaiyou_dt {
-        margin: -23px 0px 0px 220px;
+        margin: -17px 0px 0px 180px;
         word-break: keep-all;
         font-size: 50px;
     }
@@ -91,19 +95,22 @@ nav a:hover{
         font-size: 40px;
     }
     h2 {
+        width: 100%;
         margin: -23px 0px 0px 280px;
         word-break: keep-all;
     }
     .dl-instagram {
         margin: -23px 0px 0px 280px;
+        font-size: 40px;
     }
     .dd-instagram {
         margin: -23px 0px 0px 280px;
+        font-size: 40px;
     }
     .p-top-page{
         width: 100%;
         text-align: center;
-        margin: 50px 255px 0px 280px;
+        margin: 450px 255px 0px 220px;
     }
     .footer-nav {
         font-size: 45px;
