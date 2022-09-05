@@ -132,7 +132,8 @@ nav a:hover{
         justify-content: space-between;
     }
     .top-page {
-        margin: 100px 300px 0px 300px;
+        margin: 0px 10px 0px 10px;
+        padding: 0px 0px 0px 0px;
     }
     .last {
         font-size:35px;
@@ -294,6 +295,8 @@ nav a:hover{
         .top-page {
             width: 24px;
             height: 24px;
+            margin: 0px 10px 0px 10px;
+            padding: 0px 0px 0px 0px;
             
         }
         .footer-nav {
