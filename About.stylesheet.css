@@ -86,12 +86,12 @@ nav a:hover{
         display: block;
     }
     .gaiyou_dt {
-        margin: -10px 0px 0px 60px;
+        margin: -20px 0px 0px 70px;
         word-break: keep-all;
         font-size: 50px;
     }
     .gaiyou_dd {
-        margin: -90px 0px 0px 340px;
+        margin: -70px 0px 0px 340px;
         word-break: keep-all;
         font-size: 40px;
     }
