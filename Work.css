@@ -8,6 +8,10 @@
 li {
     list-style: none;
 }
+a {
+    color:inherit;
+    text-decoration: none;
+ }
 .instagram-size {
     width: 248px;
     height: 248px;
