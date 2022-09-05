@@ -85,7 +85,7 @@ nav a:hover{
         display: none;
     }
     .gaiyou_dt {
-        margin: -17px 0px 0px 180px;
+        margin: -10px 0px 0px 80px;
         word-break: keep-all;
         font-size: 50px;
     }
@@ -129,7 +129,7 @@ nav a:hover{
         justify-content: space-between;
     }
     .top-page {
-        margin: 0px 300px 0px 300px;
+        margin: 100px 300px 0px 300px;
     }
     .last {
         font-size:35px;
