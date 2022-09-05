@@ -77,6 +77,9 @@ nav a:hover{
         height: auto;
         margin: 0px 50px 50px 50px;
     }
+    .br-sp {
+        display: none;
+    }
     .gaiyou_dt {
         margin: -23px 0px 0px 220px;
         word-break: keep-all;
