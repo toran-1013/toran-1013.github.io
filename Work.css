@@ -91,6 +91,9 @@ nav a:hover{
         font-weight: bolder;
         padding-left: 25px;
     }
+    .br-sp {
+        display: block;
+    }
     h2 {
         word-break: keep-all;
     }
@@ -222,6 +225,9 @@ nav a:hover{
         margin: -20px 0px 50px 0px;
         padding: 0px 20px 0px 20px;
         font-family: 'monospace';
+        }
+    .br-sp {
+            display: none;
         }
     .textbox {
         margin: -50px 0px 300px 0px ;
