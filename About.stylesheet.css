@@ -52,11 +52,10 @@ nav a:hover{
         height: 24px;
     }
    .header-nav {
-        margin: 0px 10px 10px 10px;
-        padding-right: 10px;
-        padding-left: 10px;
-       font-size: 35px;
-       justify-content: space-between;
+        margin: 0px 90px 10px 0px;
+        padding-right: 30px;
+        padding-left: 30px;
+       font-size: 45px;
     }
     .header-ul {
         display: flex;
@@ -64,6 +63,8 @@ nav a:hover{
     }
     .header-li {
         display: flex;
+        padding-right: 30px;
+        padding-left: 30px;
         justify-content: space-between;
     }
     .About {
