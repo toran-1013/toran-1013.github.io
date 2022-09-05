@@ -193,10 +193,10 @@ nav a:hover{
         padding-right: 0px;
     }
     .p-hobby-2 {
-        width: 400px;
+        width: 420px;
         height: auto;
         text-align: center;
-        margin: 50px 240px 0px 240px;
+        margin: 50px 240px 0px 220px;
         font-family: serif;
         font-size: 30px;
         font-weight: bold;
@@ -265,7 +265,7 @@ nav a:hover{
         width: 450px;
         height: auto;
         text-align: center;
-        margin: 50px 200px 0px 240px;
+        margin: 50px 200px 0px 220px;
         font-family: serif;
         font-size: 30px;
         font-weight: bold;
@@ -370,7 +370,7 @@ nav a:hover{
     .p-top-page{
         width: 100%;
         text-align: center;
-        margin: 50px 255px 0px 80px;
+        margin: 50px 225px 0px 80px;
     }
     .footer-nav {
         font-size: 45px;
