@@ -55,6 +55,7 @@ nav a:hover{
         margin: 0px 30px 10px 10px;
         padding-right: 0px;
         padding-left: 0px;
+        font-size: 55px;
     }
     .header-ul {
         display: flex;
@@ -62,12 +63,15 @@ nav a:hover{
     }
     .header-li {
         display: flex;
+        padding-right: 30px;
+        padding-left: 30px;
     }
     .About {
-        margin: 0px 40px 0px 0px;
+        margin: 0px 44px 0px 0px;
         font-family: 'monospace';
         }
     .textbox {
+        margin: 0px 60px 0px 0px;
         word-break: keep-all;
         width: 750px;
         height: auto;
