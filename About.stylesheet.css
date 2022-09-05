@@ -52,7 +52,7 @@ nav a:hover{
         height: 24px;
     }
     .header-nav {
-        margin: 0px 30px 10px 10px;
+        margin: 0px 30px 10px 20px;
         padding-right: 0px;
         padding-left: 0px;
         font-size: 55px;
@@ -218,6 +218,8 @@ nav a:hover{
         }
         .header-li {
             list-style: none;
+            font-size: 24px;
+            margin: -15px 0px 0px 55px;
         }
         
         .About {
