@@ -87,6 +87,7 @@ nav a:hover{
     }
     .gaiyou_dt {
         margin: -20px 0px 0px 70px;
+        padding: 15px 0px 0px 15px;
         word-break: keep-all;
         font-size: 50px;
     }
