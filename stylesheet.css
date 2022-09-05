@@ -106,6 +106,9 @@ nav a:hover{
         font-weight: bolder;
         padding-left: 25px;
     }
+    .br-sp {
+        display: none;
+    }
     .instagram-size {
         width: 750px;
         height: auto;
