@@ -196,7 +196,7 @@ nav a:hover{
         width: 390px;
         height: auto;
         text-align: center;
-        margin: 50px 240px 0px 280px;
+        margin: 50px 240px 0px 240px;
         font-family: serif;
         font-size: 30px;
         font-weight: bold;
@@ -273,7 +273,7 @@ nav a:hover{
     .button-5 {
         width: 100%;
         height: auto;
-        margin: 50px 300px 0px 260px;
+        margin: 50px 300px 0px 240px;
         padding-left: 80px;
         padding-right: 80px;
         border: #000000;
@@ -370,7 +370,7 @@ nav a:hover{
     .p-top-page{
         width: 100%;
         text-align: center;
-        margin: 50px 300px 0px 260px;
+        margin: 50px 255px 0px 60px;
     }
     .footer-nav {
         font-size: 45px;
