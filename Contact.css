@@ -30,16 +30,16 @@ nav a:hover{
     color:#3f3f3f;
     border-bottom:2px solid #3f3f3f;
 }
-.dontuse {
-    background-color:#f30;
-    color:#f30;
-    font-size:28px;
-}
 @media (max-width: 750px){
     body {
         float: none;
         position: static;
         height: 750px;
+    }
+    .dontuse {
+    background-color:#f30;
+    color:#f30;
+    font-size:20px;
     }
     .section_portfolio {
         margin: -20px;
@@ -152,6 +152,11 @@ nav a:hover{
         "... ...... ...... ...... ...... ...... ..."
         / auto 150px auto 1fr auto 200px auto;
         gap: 10px;
+        }
+    .dontuse {
+    background-color:#f30;
+    color:#f30;
+    font-size:28px;
         }
     header {
             grid-area: header;
